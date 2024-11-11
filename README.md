@@ -1,4 +1,4 @@
-# A LOoper
+# A Looper
 
 ![screenshot](/source/alo.lv2/modgui/screenshot-alo.png)
 
